@@ -1,0 +1,33 @@
+{
+  "name": "FeatherFrog #5811",
+  "description": "The FeatherFrogs PFP collections provide an engaging trading experience. The objective is to uncover matching frog partners, burn them to evolve into higher-level frogs, while reducing the overall supply. The collection features five levels, starting with Alpha Frogs at level 1. As you progress, finding matching frog partners becomes increasingly challenging due to limited availability at each level.",
+  "image": "https://raw.githubusercontent.com/featherfrogs/images/refs/heads/main/5811.png",
+  "attributes": [
+    {
+      "trait_type": "level",
+      "value": "⭐"
+    },
+    {
+      "trait_type": "kingdom",
+      "value": "🌳┊Forgotten Jungle"
+    },
+    {
+      "trait_type": "sex",
+      "value": "♀️┊Female"
+    },
+    {
+      "trait_type": "element",
+      "value": "🌿┊Grass"
+    },
+    {
+      "trait_type": "frog class",
+      "value": "🎇┊Healer"
+    },
+    {
+      "trait_type": "birthstone",
+      "value": "💍┊Emerald"
+    }
+  ],
+  "external_url": "https://raw.githubusercontent.com/featherfrogs/images/refs/heads/main/5811.png",
+  "compiler": "Gh0stt_dev"
+}
