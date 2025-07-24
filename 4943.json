@@ -9,15 +9,15 @@
     },
     {
       "trait_type": "kingdom",
-      "value": "🌊┊Sunken Temple"
+      "value": "🌙┊Moon Palace"
     },
     {
       "trait_type": "sex",
-      "value": "♂️┊Male"
+      "value": "♀️┊Female"
     },
     {
       "trait_type": "element",
-      "value": "💧┊Aqua"
+      "value": "🌑┊Neutral"
     },
     {
       "trait_type": "frog class",
@@ -25,7 +25,7 @@
     },
     {
       "trait_type": "birthstone",
-      "value": "💍┊Pink Tourmaline"
+      "value": "👑┊Royal"
     }
   ],
   "external_url": "https://raw.githubusercontent.com/featherfrogs/images/refs/heads/main/4943.png",
