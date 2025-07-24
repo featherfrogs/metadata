@@ -1,0 +1,32 @@
+{
+  "name": "FeatherFrogs Alpha #677",
+  "description": "The FeatherFrogs PFP collections provide an engaging trading experience. The objective is to uncover matching frog partners, burn them to evolve into higher-level frogs, while reducing the overall supply. The collection features five levels, starting with Alpha Frogs at level 1. As you progress, finding matching frog partners becomes increasingly challenging due to limited availability at each level.",
+  "image": "ipfs://bafybeie2koufqbn625e4ihcbqx2mxjewrfxlv22xqfmhszvndfuyqb22g4/677.png",
+  "attributes": [
+    {
+      "trait_type": "level",
+      "value": "⭐"
+    },
+    {
+      "trait_type": "kingdom",
+      "value": "🌊┊Sunken Temple"
+    },
+    {
+      "trait_type": "sex",
+      "value": "♂️┊Male"
+    },
+    {
+      "trait_type": "element",
+      "value": "💧┊Aqua"
+    },
+    {
+      "trait_type": "frog class",
+      "value": "🛠️┊Artisan"
+    },
+    {
+      "trait_type": "birthstone",
+      "value": "💍┊Aquamarine"
+    }
+  ],
+  "compiler": "mintfoundry.xyz"
+}
