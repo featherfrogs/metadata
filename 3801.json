@@ -26,6 +26,10 @@
     {
       "trait_type": "birthstone",
       "value": "💍┊Citrine"
+    },
+    {
+      "trait_type": "special",
+      "value": "🃏┊Arbitrum"
     }
   ],
   "external_url": "https://raw.githubusercontent.com/featherfrogs/images/refs/heads/main/3801.png",

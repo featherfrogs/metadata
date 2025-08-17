@@ -26,6 +26,10 @@
     {
       "trait_type": "birthstone",
       "value": "💍┊Amethyst"
+    },
+    {
+      "trait_type": "special",
+      "value": "🃏┊Solana"
     }
   ],
   "external_url": "https://raw.githubusercontent.com/featherfrogs/images/refs/heads/main/6554.png",

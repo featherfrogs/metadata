@@ -26,6 +26,10 @@
     {
       "trait_type": "birthstone",
       "value": "💍┊Aquamarine"
+    },
+    {
+      "trait_type": "special",
+      "value": "🃏┊Pancakeswap"
     }
   ],
   "external_url": "https://raw.githubusercontent.com/featherfrogs/images/refs/heads/main/6240.png",

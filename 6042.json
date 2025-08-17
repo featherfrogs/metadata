@@ -26,6 +26,10 @@
     {
       "trait_type": "birthstone",
       "value": "💍┊Blue Sapphire"
+    },
+    {
+      "trait_type": "special",
+      "value": "🃏┊Phantom"
     }
   ],
   "external_url": "https://raw.githubusercontent.com/featherfrogs/images/refs/heads/main/6042.png",
